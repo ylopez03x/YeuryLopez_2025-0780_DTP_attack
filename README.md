@@ -113,32 +113,34 @@ interface e0/0
 
 ## 📸 Capturas de pantalla requeridas
 
-show vlan brief en SW1
- <img width="889" height="313" alt="image" src="https://github.com/user-attachments/assets/addb9a92-f01f-4dfb-8257-be11f872c79b" />
+## Capturas de pantalla
 
-show mac address-table antes del ataque
- <img width="605" height="222" alt="image" src="https://github.com/user-attachments/assets/5f5597ab-7960-4576-96b0-2f3f5ee3072f" />
+### show vlan brief en SW1
+![show vlan brief SW1](https://github.com/user-attachments/assets/addb9a92-f01f-4dfb-8257-be11f872c79b)
 
-Ubuntu sin recibir paquetes de Kali
- <img width="975" height="110" alt="image" src="https://github.com/user-attachments/assets/5eba5f68-3cb0-462a-89b0-d2d4df624abe" />
- 
-Script corriendo en Kali
- <img width="975" height="413" alt="image" src="https://github.com/user-attachments/assets/53f02af3-6a2d-494e-adbc-50c583e636e0" />
- 
-Ubuntu recibiendo paquetes ICMP de Kali
- <img width="975" height="434" alt="image" src="https://github.com/user-attachments/assets/307c0daf-a8ce-4845-b279-07fbe04dceb1" />
+### show mac address-table antes del ataque
+![mac address table](https://github.com/user-attachments/assets/5f5597ab-7960-4576-96b0-2f3f5ee3072f)
 
-MAC de Kali aparece en VLAN 20
- <img width="639" height="280" alt="image" src="https://github.com/user-attachments/assets/40342e90-3e92-462d-953b-df70c82fef42" />
+### Ubuntu sin recibir paquetes de Kali
+![ubuntu sin ataque](https://github.com/user-attachments/assets/5eba5f68-3cb0-462a-89b0-d2d4df624abe)
 
-Configuracion de la contramedida en SW1
- <img width="626" height="373" alt="image" src="https://github.com/user-attachments/assets/ea23e61a-7f80-404f-943f-3923d2c3b65e" />
+### Script corriendo en Kali
+![script kali](https://github.com/user-attachments/assets/53f02af3-6a2d-494e-adbc-50c583e636e0)
 
-Ubuntu sin recibir paquetes despues de contramedida
- <img width="975" height="110" alt="image" src="https://github.com/user-attachments/assets/dcab1787-e577-4894-9b20-35dc956cd53f" />
+### Ubuntu recibiendo paquetes ICMP de Kali
+![ubuntu con ataque](https://github.com/user-attachments/assets/307c0daf-a8ce-4845-b279-07fbe04dceb1)
 
-MAC de Kali ya no aparece en VLAN 20
- <img width="578" height="248" alt="image" src="https://github.com/user-attachments/assets/a6b9d3c9-77e5-4f0a-9596-e1549ad51a02" />
+### MAC de Kali aparece en VLAN 20
+![mac vlan 20](https://github.com/user-attachments/assets/40342e90-3e92-462d-953b-df70c82fef42)
+
+### Configuracion de la contramedida en SW1
+![contramedida](https://github.com/user-attachments/assets/ea23e61a-7f80-404f-943f-3923d2c3b65e)
+
+### Ubuntu sin recibir paquetes despues de contramedida
+![ubuntu contramedida](https://github.com/user-attachments/assets/dcab1787-e577-4894-9b20-35dc956cd53f)
+
+### MAC de Kali ya no aparece en VLAN 20
+![mac sin ataque](https://github.com/user-attachments/assets/a6b9d3c9-77e5-4f0a-9596-e1549ad51a02)
 
 
 ---
