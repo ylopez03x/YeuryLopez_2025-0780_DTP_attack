@@ -120,10 +120,10 @@ show mac address-table antes del ataque
  <img width="605" height="222" alt="image" src="https://github.com/user-attachments/assets/5f5597ab-7960-4576-96b0-2f3f5ee3072f" />
 
 Ubuntu sin recibir paquetes de Kali
-<img width="975" height="110" alt="image" src="https://github.com/user-attachments/assets/5eba5f68-3cb0-462a-89b0-d2d4df624abe" />
+ <img width="975" height="110" alt="image" src="https://github.com/user-attachments/assets/5eba5f68-3cb0-462a-89b0-d2d4df624abe" />
  
 Script corriendo en Kali
-<img width="975" height="413" alt="image" src="https://github.com/user-attachments/assets/53f02af3-6a2d-494e-adbc-50c583e636e0" />
+ <img width="975" height="413" alt="image" src="https://github.com/user-attachments/assets/53f02af3-6a2d-494e-adbc-50c583e636e0" />
  
 Ubuntu recibiendo paquetes ICMP de Kali
  <img width="975" height="434" alt="image" src="https://github.com/user-attachments/assets/307c0daf-a8ce-4845-b279-07fbe04dceb1" />
